@@ -7,7 +7,7 @@ Catalog-driven multi-runtime agent harness. Successor of [ko-adk-alfa](https://g
 Pristino Beta is a private pre-release harness. [CONFIG] It is not public yet and
 is planned for public release with Ciclo 2 of the 2026 Programa de
 Empoderamiento, after release gates pass. [SUPUESTO] If a user without access
-opens or clones `JaviMontano/jm-adk-beta`, GitHub may return 404; that is the
+opens or clones `KatherinOquendo/ko-adk-beta`, GitHub may return 404; that is the
 expected behavior for a private repository.
 
 Beta is a separate product line from Alfa. [CONFIG] Alfa remains the public,
