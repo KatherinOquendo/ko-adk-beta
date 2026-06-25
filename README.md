@@ -1,6 +1,6 @@
 # Pristino Beta
 
-Catalog-driven multi-runtime agent harness. Successor of [jm-adk-alfa](https://github.com/JaviMontano/jm-adk-alfa) (frozen at tag `alfa-final`).
+Catalog-driven multi-runtime agent harness. Successor of [ko-adk-alfa](https://github.com/KatherinOquendo/ko-adk-alfa) (frozen at tag `alfa-final`).
 
 ## Private Preview Status
 
